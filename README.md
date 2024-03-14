@@ -1,0 +1,1 @@
+![image](https://github.com/tgmeser/Netflix-Jetpack-Compose-Design/assets/78986854/f31f6701-492c-4f7c-a646-3134fb18feee)![image](https://github.com/tgmeser/Netflix-Jetpack-Compose-Design/assets/78986854/92982e1a-44e3-4f2d-a2ae-d43b563548d0)
